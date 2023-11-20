@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1ab7e777-83b9-461c-8a00-75f152fab6d1"
+      }
+    },
+    "owner": "lucassportal"
   }
 }
